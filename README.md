@@ -6,7 +6,7 @@ This repo contains papers for the Responsible AI System & Experience (RAISE) rea
 
 
 ### Transfer Learning/Transferability
-1. *(Jun, 2020)* [What makes instance discrimination good for transfer learning?](https://arxiv.org/abs/2006.06606)
+1. #(Jun, 2020)# [What makes instance discrimination good for transfer learning?](https://arxiv.org/abs/2006.06606)
 2. LEEP: A New Measure to Evaluate Transferability of Learned Representations (Feb. 2020) [https://arxiv.org/abs/2002.12462]
 3. Towards Understanding the Transferability of Deep Representation (Spe. 2019) [https://arxiv.org/abs/1909.12031]
 4. Transferability and Hardness of Supervised Classification Tasks (Aug. 2019) [https://arxiv.org/abs/1908.08142]
