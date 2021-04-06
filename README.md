@@ -1,3 +1,3 @@
 # RAISE-reading-resources
 
-### This repo contains the papers for the RAISE reading group.
+This repo contains papers for the Responsible AI System & Experience (RAISE) reading group.
