@@ -1,8 +1,9 @@
 # RAISE-reading-resources
 
 This repo contains papers for the Responsible AI System & Experience (RAISE) reading group. The covered topics include (but not limited to): 
-- transfer learning & transferability
-- fairness etc.
+- Transfer learning & transferability
+- Bias & fairness
+- Interpretability
 
 
 ### Transfer Learning & Transferability
@@ -15,3 +16,6 @@ This repo contains papers for the Responsible AI System & Experience (RAISE) rea
 - **(04/2019)** [Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning](https://arxiv.org/abs/1904.11740)
 - **(12/2018)** [An Information-Theoretic Metric of Transferability for Task Transfer Learning](https://openreview.net/forum?id=BkxAUjRqY7)
 - **(04/2018)** [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
+
+### Bias & Fairness
+- **(07/2018)** [A Broader View on Bias in Automated Decision-Making: Reflecting on Epistemology and Dynamics](https://arxiv.org/abs/1807.00553)
