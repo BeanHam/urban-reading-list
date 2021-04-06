@@ -6,6 +6,7 @@ This repo contains papers for the Responsible AI System & Experience (RAISE) rea
 
 
 ### Transfer Learning/Transferability
+- **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - **(06/2020)** [What makes instance discrimination good for transfer learning?](https://arxiv.org/abs/2006.06606)
 - **(02/2020)** [LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://arxiv.org/abs/2002.12462)
 - **(09/2019)** [Towards Understanding the Transferability of Deep Representation](https://arxiv.org/abs/1909.12031)
