@@ -1,6 +1,6 @@
 # RAISE-reading-resources
 
-This repo contains papers for the Responsible AI System & Experience (RAISE) reading group. The covered topics include (but not limited to): 
+This repo contains papers for the **Responsible AI System & Experience (RAISE)** reading group. The covered topics include (but not limited to): 
 - Transfer learning & transferability
 - Bias & fairness
 - Interpretability
