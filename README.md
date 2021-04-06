@@ -5,8 +5,6 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 - Bias & fairness
 - Interpretability
 
-################################
-
 ### Transfer Learning & Transferability
 - **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
   - note1
