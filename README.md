@@ -1,6 +1,6 @@
 # RAISE-reading-resources
 
-<img align="right" width="600" height="200" src="https://github.com/BeanHam/RAISE-reading-resources/blob/main/RAISE.png">
+<img align="left" width="600" height="200" src="https://github.com/BeanHam/RAISE-reading-resources/blob/main/RAISE.png">
 
 This repo contains papers for the **Responsible AI System & Experience (RAISE)** reading group. The covered topics include (but not limited to): 
 - Transfer learning & transferability
