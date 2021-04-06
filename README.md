@@ -6,6 +6,8 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 - Transfer learning & transferability
 - Bias & fairness
 - Interpretability
+
+
 ---------
 ### Transfer Learning & Transferability
 - **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
@@ -22,5 +24,7 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 - **(12/2018)** [An Information-Theoretic Metric of Transferability for Task Transfer Learning](https://openreview.net/forum?id=BkxAUjRqY7)
 - **(04/2018)** [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
 
+
+---------
 ### Bias & Fairness
 - **(07/2018)** [A Broader View on Bias in Automated Decision-Making: Reflecting on Epistemology and Dynamics](https://arxiv.org/abs/1807.00553)
