@@ -24,3 +24,7 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 ---------
 ### Bias & Fairness
 - **(07/2018)** [A Broader View on Bias in Automated Decision-Making: Reflecting on Epistemology and Dynamics](https://arxiv.org/abs/1807.00553)
+
+---------
+### Interpretability & Explanability
+- **(02/2020)** [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://dl.acm.org/doi/10.1145/3313831.3376590)
