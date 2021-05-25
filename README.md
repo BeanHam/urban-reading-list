@@ -28,3 +28,11 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 ---------
 ### Interpretability & Explanability
 - **(02/2020)** [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://dl.acm.org/doi/10.1145/3313831.3376590)
+
+---------
+### Image Inpainting
+- **(02/2020)** [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://dl.acm.org/doi/10.1145/3313831.3376590)
+
+---------
+### Self-Supervised Representation Learning
+- **(02/2020)** [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://dl.acm.org/doi/10.1145/3313831.3376590)
