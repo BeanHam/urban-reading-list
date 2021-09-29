@@ -2,10 +2,8 @@
 
 <!--![alt text](https://github.com/BeanHam/RAISE-reading-resources/blob/main/RAISE.png)-->
 
-This repo contains papers for the **Responsible AI System & Experience (RAISE)** reading group. The covered topics include (but not limited to): 
+This repo contains papers for my research. The covered topics include (but not limited to): 
 - Transfer learning & transferability
-- Bias & fairness
-- Interpretability
 - Image Inpainting
 - Self-Supervised Representation Learning
 
@@ -21,15 +19,6 @@ This repo contains papers for the **Responsible AI System & Experience (RAISE)**
 - **(04/2019)** [Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning](https://arxiv.org/abs/1904.11740)
 - **(12/2018)** [An Information-Theoretic Metric of Transferability for Task Transfer Learning](https://openreview.net/forum?id=BkxAUjRqY7)
 - **(04/2018)** [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
-
-
----------
-### Bias & Fairness
-- **(07/2018)** [A Broader View on Bias in Automated Decision-Making: Reflecting on Epistemology and Dynamics](https://arxiv.org/abs/1807.00553)
-
----------
-### Interpretability & Explanability
-- **(02/2020)** [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://dl.acm.org/doi/10.1145/3313831.3376590)
 
 ---------
 ### Image Inpainting
