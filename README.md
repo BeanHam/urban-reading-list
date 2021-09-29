@@ -1,4 +1,4 @@
-# RAISE-reading-resources
+# Reading List
 
 <!--![alt text](https://github.com/BeanHam/RAISE-reading-resources/blob/main/RAISE.png)-->
 
