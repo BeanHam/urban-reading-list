@@ -23,6 +23,7 @@ This repo contains papers for my research. The covered topics include (but not l
 ---------
 ### Image Inpainting
 - **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)
+- **(09/2019)** [Image inpainting: A review](https://arxiv.org/pdf/1909.06399.pdf)
 - **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/abs/1901.00212)
 - **(12/2018)** [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
 - **(10/2018)** [Image Inpainting via Generative Multi-column Convolutional Neural Networks](https://arxiv.org/abs/1810.08771)
