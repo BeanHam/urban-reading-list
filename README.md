@@ -25,7 +25,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(11/2020)** [Image Inpainting with Learnable Feature Imputation](https://arxiv.org/pdf/2011.01077v1.pdf)
 - **(09/2020)** [Texture Memory-Augmented Deep Patch-Based Image Inpainting](https://arxiv.org/pdf/2009.13240v1.pdf)
 - **(06/2020)** [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/pdf/2006.09661.pdf)
-- **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)
+- **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589.pdf)
 - **(09/2019)** [Image inpainting: A review](https://arxiv.org/pdf/1909.06399.pdf)
 - **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/abs/1901.00212)
 - **(12/2018)** [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
