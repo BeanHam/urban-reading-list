@@ -22,6 +22,9 @@ This repo contains papers for my research. The covered topics include (but not l
 
 ---------
 ### Image Inpainting
+- **(11/2020)** [Image Inpainting with Learnable Feature Imputation](https://arxiv.org/pdf/2011.01077v1.pdf)
+- **(09/2020)** [Texture Memory-Augmented Deep Patch-Based Image Inpainting](https://arxiv.org/pdf/2009.13240v1.pdf)
+- **(06/2020)** [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/pdf/2006.09661.pdf)
 - **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589)
 - **(09/2019)** [Image inpainting: A review](https://arxiv.org/pdf/1909.06399.pdf)
 - **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/abs/1901.00212)
@@ -30,7 +33,9 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(04/2018)** [Shift-Net: Image Inpainting via Deep Feature Rearrangement](https://arxiv.org/abs/1801.09392)
 - **(03/2018)** [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892)
 - **(03/2018)** [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
+- **(11/2017)** [Deep Image Prior](https://arxiv.org/pdf/1711.10925v4.pdf)
 - **(07/2017)** [Globally and Locally Consistent Image Completion](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)
+- **(07/2017)** [Semantic Image Inpainting with Deep Generative Models](https://arxiv.org/pdf/1607.07539v3.pdf)
 - **(11/2016)** [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
 - **(11/2016)** [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://arxiv.org/abs/1611.09969)
 
