@@ -27,7 +27,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(06/2020)** [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/pdf/2006.09661.pdf)
 - **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589.pdf)
 - **(09/2019)** [Image inpainting: A review](https://arxiv.org/pdf/1909.06399.pdf)
-- **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/abs/1901.00212)
+- **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf)
 - **(12/2018)** [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
 - **(10/2018)** [Image Inpainting via Generative Multi-column Convolutional Neural Networks](https://arxiv.org/abs/1810.08771)
 - **(04/2018)** [Shift-Net: Image Inpainting via Deep Feature Rearrangement](https://arxiv.org/abs/1801.09392)
