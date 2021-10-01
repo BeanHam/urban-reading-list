@@ -36,11 +36,10 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(11/2017)** [Deep Image Prior](https://arxiv.org/pdf/1711.10925v4.pdf)
 - **(07/2017)** [Globally and Locally Consistent Image Completion](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)
 - **(07/2017)** [Semantic Image Inpainting with Deep Generative Models](https://arxiv.org/pdf/1607.07539v3.pdf)
-- **(11/2016)** [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
-  - encoder-decoder architecture
-  - channel-wise fully connected layer
-  - reconstruction loss + adverserial loss
 - **(11/2016)** [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://arxiv.org/abs/1611.09969)
+  - context-encoder architecture; content loss/constraint + local textual constraint
+- **(11/2016)** [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
+  - encoder-decoder architecture; channel-wise fully connected layer; reconstruction loss + adverserial loss
 
 ---------
 ### Self-Supervised Representation Learning
