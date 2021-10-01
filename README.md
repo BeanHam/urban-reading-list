@@ -33,6 +33,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(03/2018)** [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
 - **(11/2017)** [Deep Image Prior](https://arxiv.org/pdf/1711.10925v4.pdf)
 - **(07/2017)** [Globally and Locally Consistent Image Completion](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)
+  - completion network + global context discriminator + local context discriminator
 - **(07/2017)** [Semantic Image Inpainting with Deep Generative Models](https://arxiv.org/pdf/1607.07539v3.pdf)
 - **(11/2016)** [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://arxiv.org/abs/1611.09969)
   - context-encoder architecture; content loss/constraint + local textual constraint
