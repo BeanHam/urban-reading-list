@@ -32,6 +32,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(04/2018)** [Shift-Net: Image Inpainting via Deep Feature Rearrangement](https://arxiv.org/abs/1801.09392)
 - **(03/2018)** [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892)
 - **(03/2018)** [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
+  - global GAN + patch GAN (Image-to-image translation with conditional adversarial networks)
 - **(07/2017)** [Globally and Locally Consistent Image Completion](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf)
   - completion network + global context discriminator + local context discriminator
 - **(07/2017)** [Semantic Image Inpainting with Deep Generative Models](https://arxiv.org/pdf/1607.07539v3.pdf)
