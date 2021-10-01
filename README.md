@@ -1,7 +1,5 @@
 # Reading List
 
-<!--![alt text](https://github.com/BeanHam/RAISE-reading-resources/blob/main/RAISE.png)-->
-
 This repo contains papers for my research. The covered topics include (but not limited to): 
 - Transfer learning & transferability
 - Image Inpainting
