@@ -39,7 +39,6 @@ This repo contains papers for my research. The covered topics include (but not l
   - shift-connection layer: connect encoder feature of known regions to decoder features of missing regions
 - **(03/2018)** [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892)
   - coarse-to-fine network architecture
-  - complicated...
   - great literature review (including spatial attention)
 - **(03/2018)** [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
   - global GAN + patch GAN (Image-to-image translation with conditional adversarial networks)
