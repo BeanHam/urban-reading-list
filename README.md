@@ -39,6 +39,8 @@ This repo contains papers for my research. The covered topics include (but not l
   - shift-connection layer: connect encoder feature of known regions to decoder features of missing regions
 - **(03/2018)** [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892)
   - coarse-to-fine network architecture
+  - contextual attention to attento to related features from spatially distant locations.
+  - WGANS + spatially discounted reconstruction loss.
   - great literature review (including spatial attention)
 - **(03/2018)** [Patch-Based Image Inpainting with Generative Adversarial Networks](https://arxiv.org/abs/1803.07422)
   - global GAN + patch GAN (Image-to-image translation with conditional adversarial networks)
@@ -51,7 +53,10 @@ This repo contains papers for my research. The covered topics include (but not l
   - context-encoder architecture; content loss/constraint + local textual constraint
 - **(11/2016)** [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
   - encoder-decoder architecture; channel-wise fully connected layer; reconstruction loss + adverserial loss
-
+- **(07/2009)** [PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing](https://dl.acm.org/doi/pdf/10.1145/1531326.1531330)
+- **(07/2007)** [Scene Completion Using Millions of Photographs](http://graphics.cs.cmu.edu/projects/scene-completion/scene-completion.pdf)
+- **(2001)** [Image Quilting for Texture Synthesis and Transfer](https://dl.acm.org/doi/pdf/10.1145/383259.383296)
+- **(2001)** [Filling-In by Joint Interpolation of Vector Fields and Gray Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935036)
 ---------
 ### Self-Supervised Representation Learning
 - **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
