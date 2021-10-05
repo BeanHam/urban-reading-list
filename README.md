@@ -7,7 +7,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - GANs
 
 
----------
+=======
 ### Transfer Learning & Transferability
 - **(06/2020)** [What makes instance discrimination good for transfer learning?](https://arxiv.org/abs/2006.06606)
 - **(02/2020)** [LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://arxiv.org/abs/2002.12462)
