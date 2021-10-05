@@ -7,7 +7,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - GANs
 
 ---------
-### Image Inpainting
+## Image Inpainting
 - **(12/2020)** [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://arxiv.org/pdf/2103.10428v1.pdf)
 - **(11/2020)** [Image Inpainting with Learnable Feature Imputation](https://arxiv.org/pdf/2011.01077v1.pdf)
 - **(09/2020)** [Texture Memory-Augmented Deep Patch-Based Image Inpainting](https://arxiv.org/pdf/2009.13240v1.pdf)
@@ -48,7 +48,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(2001)** [Image Quilting for Texture Synthesis and Transfer](https://dl.acm.org/doi/pdf/10.1145/383259.383296)
 - **(2001)** [Filling-In by Joint Interpolation of Vector Fields and Gray Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935036)
 ---------
-### Self-Supervised Representation Learning
+## Self-Supervised Representation Learning
 - **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - **(09/2020)** [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 - **(09/2020)** [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://arxiv.org/abs/2004.04136)
@@ -64,7 +64,7 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(07/2008)** [Extracting and composing robust features with denoising autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf)
 
 ---------
-### Transfer Learning & Transferability
+## Transfer Learning & Transferability
 - **(06/2020)** [What makes instance discrimination good for transfer learning?](https://arxiv.org/abs/2006.06606)
 - **(02/2020)** [LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://arxiv.org/abs/2002.12462)
 - **(02/2020)** [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/abs/2002.05990)
