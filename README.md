@@ -53,6 +53,8 @@ This repo contains papers for my research. The covered topics include (but not l
   - context-encoder architecture; content loss/constraint + local textual constraint
 - **(11/2016)** [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
   - encoder-decoder architecture; channel-wise fully connected layer; reconstruction loss + adverserial loss
+- **(10/2014)** [Mask-specific inpainting with deep neural networks](https://papers.nips.cc/paper/2014/file/1c1d4df596d01da60385f0bb17a4a9e0-Paper.pdf)
+- **(09/2014)** [Deep Convolutional Neural Network for Image Deconvolution](https://papers.nips.cc/paper/2014/file/1c1d4df596d01da60385f0bb17a4a9e0-Paper.pdf)
 - **(07/2009)** [PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing](https://dl.acm.org/doi/pdf/10.1145/1531326.1531330)
 - **(07/2007)** [Scene Completion Using Millions of Photographs](http://graphics.cs.cmu.edu/projects/scene-completion/scene-completion.pdf)
 - **(2001)** [Image Quilting for Texture Synthesis and Transfer](https://dl.acm.org/doi/pdf/10.1145/383259.383296)
