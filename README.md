@@ -45,8 +45,11 @@ This repo contains papers for my research. The covered topics include (but not l
 - **(09/2014)** [Deep Convolutional Neural Network for Image Deconvolution](https://papers.nips.cc/paper/2014/file/1c1d4df596d01da60385f0bb17a4a9e0-Paper.pdf)
 - **(07/2009)** [PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing](https://dl.acm.org/doi/pdf/10.1145/1531326.1531330)
 - **(07/2007)** [Scene Completion Using Millions of Photographs](http://graphics.cs.cmu.edu/projects/scene-completion/scene-completion.pdf)
+- **(2003)** [Learning how to inpaint from global image statistics](https://www.cs.huji.ac.il/w~yweiss/inpainting.pdf)
 - **(2001)** [Image Quilting for Texture Synthesis and Transfer](https://dl.acm.org/doi/pdf/10.1145/383259.383296)
 - **(2001)** [Filling-In by Joint Interpolation of Vector Fields and Gray Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935036)
+- **(2001)** [Simultaneous structure and texture image inpainting](https://www.math.ucla.edu/~lvese/PAPERS/01211536.pdf)
+- **(2000)** [Image inpainting](https://www.ima.umn.edu/sites/default/files/1655.pdf)
 ---------
 ## Self-Supervised Representation Learning
 - **(02/2021)** [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
