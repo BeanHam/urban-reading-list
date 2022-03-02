@@ -2,6 +2,7 @@
 
 This repo contains papers for my research. The covered topics include (but not limited to): 
 - Image Inpainting + Applications
+- Image Super-Resolution + Applications
 - Transfer learning & transferability
 - Self-Supervised Representation Learning
 - GANs
