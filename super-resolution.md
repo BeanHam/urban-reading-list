@@ -1,9 +1,27 @@
 
 
 ## Image Super Resolution
+- **(10/2018)** [(CARN) Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network](https://arxiv.org/pdf/1803.08664.pdf)
+- **(09/2018)** [(ESRGAN) ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf)
+- **(07/2018)** [(RCAN) Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf)
+- **(04/2018)** [(SFT-GAN) Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform](https://arxiv.org/pdf/1804.02815.pdf)
+- **(03/2018)** [(DBPN) Deep Back-Projection Networks For Super-Resolution](https://arxiv.org/pdf/1803.02735.pdf)
+- **(03/2018)** [(RDN) Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
+- **(10/2017)** [(LapSRN) Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/pdf/1704.03915.pdf)
+- **(10/2017)** [(SRDenseNet) Image Super-Resolution Using Dense Skip Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
+- **(07/2017)** [(EDSR) Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf)
+- **(07/2017)** [(DRRN) Image Super-Resolution via Deep Recursive Residual Network](https://arxiv.org/pdf/1609.04802.pdf)
+- **(05/2017)** [(SRGAN) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
+  - applied ResNe; applied GAN
 - **(11/2016)** [(DRCN) Deeply-Recursive Convolutional Network for Image Super-Resolution](https://arxiv.org/pdf/1511.04491.pdf)
+  - similar to VDSR, applied fewer convolution layers to reduce parameters.
 - **(11/2016)** [(VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks](https://arxiv.org/pdf/1511.04587.pdf)
-- **(09/2016)** [(FSRCNN) Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/pdf/1609.05158.pdf)
+  - deep CNN architecture: 20-layer VGG-net.
+  - can be used for multiple scales
+  - residual learning
+- **(09/2016)** [(ESPCN) Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/pdf/1609.05158.pdf)
+  - subpixel convolution layers
 - **(08/2016)** [(FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/pdf/1608.00367.pdf)
+  - applied normal deconvolition layers
 - **(07/2015)** [(SRCNN) Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
-  - benchmark
+  - benchmark; simple formulation
