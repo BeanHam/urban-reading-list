@@ -1,6 +1,14 @@
 
 
 ## Image Super Resolution
+- **(11/2021)** [(NLSN) Image Super-Resolution with Non-Local Sparse Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9578003)
+- **(11/2021)** [(IPT) Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)
+- **(08/2021)** [(SwinIR) SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/pdf/2108.10257.pdf)
+- **(10/2020)** [(IGNN) Cross-Scale Internal Graph Neural Network for Image Super-Resolution](https://arxiv.org/pdf/2006.16673.pdf)
+- **(08/2020)** [(HAN) Single Image Super-Resolution via a Holistic Attention Network](https://arxiv.org/pdf/2008.08767.pdf)
+- **(07/2020)** [(PULSE) PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/pdf/2003.03808.pdf)
+- **(01/2020)** [(SAN) Second-order Attention Network for Single Image Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954252)
+- **(07/2019)** [(DRLN) Densely Residual Laplacian Super-Resolution](https://arxiv.org/pdf/1906.12021.pdf)
 - **(10/2018)** [(CARN) Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network](https://arxiv.org/pdf/1803.08664.pdf)
 - **(09/2018)** [(ESRGAN) ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf)
 - **(07/2018)** [(RCAN) Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf)
