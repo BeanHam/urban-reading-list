@@ -5,3 +5,4 @@ This repo contains read-list for my research (computer vision, spatio-temporal p
 - [Transfer learning & Transferability](transfer-learning.md)
 - [Self-Supervised Representation Learning](representation-learning.md)
 - [Image Super-Resolution & Applications](super-resolution.md)
+- [Graph Neural Network](gnn.md)
