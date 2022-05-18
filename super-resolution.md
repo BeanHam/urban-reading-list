@@ -31,5 +31,5 @@
   - subpixel convolution layers
 - **(08/2016)** [(FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/pdf/1608.00367.pdf)
   - applied normal deconvolition layers
-- :+1: **(07/2015)** [(SRCNN) Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
+- **(07/2015)** [(SRCNN) Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
   - benchmark; simple formulation
