@@ -17,9 +17,9 @@
 - **(03/2018)** [(RDN) Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
 - **(10/2017)** [(LapSRN) Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/pdf/1704.03915.pdf)
 - **(10/2017)** [(SRDenseNet) Image Super-Resolution Using Dense Skip Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
-- **(07/2017)** [(EDSR) Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf)
+- :+1: **(07/2017)** [(EDSR) Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/pdf/1707.02921.pdf)
 - **(07/2017)** [(DRRN) Image Super-Resolution via Deep Recursive Residual Network](https://arxiv.org/pdf/1609.04802.pdf)
-- **(05/2017)** [(SRGAN) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
+- :+1: **(05/2017)** [(SRGAN) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
   - applied ResNe; applied GAN
 - **(11/2016)** [(DRCN) Deeply-Recursive Convolutional Network for Image Super-Resolution](https://arxiv.org/pdf/1511.04491.pdf)
   - similar to VDSR, applied fewer convolution layers to reduce parameters.
@@ -31,5 +31,5 @@
   - subpixel convolution layers
 - **(08/2016)** [(FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/pdf/1608.00367.pdf)
   - applied normal deconvolition layers
-- :check: **(07/2015)** [(SRCNN) Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
+- :+1: **(07/2015)** [(SRCNN) Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
   - benchmark; simple formulation
