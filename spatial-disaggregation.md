@@ -8,6 +8,10 @@
   - **Model** dasymetric method + grid census population into fine-resolution using 3d building information
   - **Data**: population data; building information; aerial images
 
+- **(2019)** [Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Information](https://www.mdpi.com/2220-9964/8/8/327)
+  - nice literature review
+  - **Model** a hybrid approach that combines pycnophylactic interpolation and regression-based dasymetric mapping
+  - **Data**: CEDAR (11 geo regions); LOKSTAT (41 geo regions) + covariates
 
 ## Spatial Distribution Mapping
 - **(2017)** [Mapping under-5 and neonatal mortality in Africa, 2000–15: a baseline analysis for the Sustainable Development Goals](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31758-0/fulltext)
