@@ -22,6 +22,6 @@
   - **Model** bayesian hierachical model
   - **Data**: data on child mortality and geographical locations from censuses and several household survey series, including the DHS, UNICEF Multiple Indicator Cluster Surveys, and other country-specific surveys. (n=59279) + covariates
 
-- **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity]([https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2015.0073](https://www.sciencedirect.com/science/article/pii/S014362281400157X))
+- **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity](https://www.sciencedirect.com/science/article/pii/S014362281400157X)
   - **Model** dasymetric model
   - **Data**: SEDAC 2000 U.S. Census Grids. + 17 demographic/socioeconomic characteris- tics + National Land Cover Dataset 2001
