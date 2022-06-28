@@ -1,16 +1,2 @@
 ## Image Inpainting
-- **(12/2020)** [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://arxiv.org/pdf/2103.10428v1.pdf)
-- **(11/2020)** [Image Inpainting with Learnable Feature Imputation](https://arxiv.org/pdf/2011.01077v1.pdf)
-- **(09/2020)** [Texture Memory-Augmented Deep Patch-Based Image Inpainting](https://arxiv.org/pdf/2009.13240v1.pdf)
-- **(10/2019)** [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589.pdf)
-  - gated convolution to learn dynamic feature selection
-  - patch-based GAN discriminator (SN-PatchGAN)
-- **(05/2019)** [Coherent Semantic Attention for Image Inpainting](https://arxiv.org/pdf/1905.12384v3.pdf)
-- **(01/2019)** [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf)
-- **(12/2018)** [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
-  - inpainting independent of the hole initialization values and without any additional post- processing
-  - inpainting with irregular masks: partial convolution layer
-- **(10/2018)** [Image Inpainting via Generative Multi-column Convolutional Neural Networks](https://arxiv.org/abs/1810.08771)
-  - generator with multiple parallel encoder-decoder branches
-  - ID-MRF regularization in training phrase to address semantic structure matching
-  - confidence driven reconstruction loss
+- **(2019)** [A spatial regression model for the disaggregation of areal unit based data to high-resolution grids with application to vaccination coverage mapping](https://arxiv.org/pdf/1806.03589.pdf](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
