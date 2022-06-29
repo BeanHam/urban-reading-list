@@ -24,4 +24,6 @@
 
 - **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity](https://www.sciencedirect.com/science/article/pii/S014362281400157X)
   - **Model** dasymetric model
-  - **Data**: SEDAC 2000 U.S. Census Grids. + 17 demographic/socioeconomic characteris- tics + National Land Cover Dataset 2001
+  - **Data**: 
+    - SEDAC (Socioeconomic Data and Ap- plications Center) 2000 U.S. Census Grids.
+    - 17 demographic/socioeconomic characteris- tics + National Land Cover Dataset 2001
