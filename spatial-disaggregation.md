@@ -20,18 +20,7 @@
   - nice literature review
 
 - **(2015)** [Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107042)
-  - **Model** dasymetric mapping + random forest
-
-
-
-## Spatial Distribution Mapping
-- **(2017)** [Mapping under-5 and neonatal mortality in Africa, 2000–15: a baseline analysis for the Sustainable Development Goals](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31758-0/fulltext)
-  - **Model** bayesian hierachical spatio-temporal model (SPDE)
-  - **Data**: 1631 age record data; three other covariates
-
-- **(2015)** [Fine resolution mapping of populationage-structures for health anddevelopment applications](https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2015.0073)
-  - **Model** bayesian hierachical model
-  - **Data**: data on child mortality and geographical locations from censuses and several household survey series, including the DHS, UNICEF Multiple Indicator Cluster Surveys, and other country-specific surveys. (n=59279) + covariates
+  - **Model** dasymetric mapping + random fores
 
 - **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity](https://www.sciencedirect.com/science/article/pii/S014362281400157X)
   - **Model** dasymetric model
