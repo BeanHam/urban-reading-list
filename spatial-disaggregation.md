@@ -1,10 +1,11 @@
 ## Spatial Disaggregation
 
-#### 1. Mass-Preserving areal weighting/areal interpolation: 
+#### 1. Mass-Preserving areal weighting: 
 the known population of an administrative zone is distributed uniformly across its area. This process happens on a discretized grid over an administrative zone, where each cell in the grid is assigned a population value equal to the total population over the total number of cells that cover an administrative zone.
 
 ---
-#### 2. Pycnophylactic Interpolation 
+#### 2. Areal Interpolation:
+estimate unknown data points for specific locations using known data values in other locations. These methods are used to smooth population estimates across administrative boundaries. Additional information can also be used to improve estimates.
 
 ---
 #### 3. Dasymetric Mapping: 
