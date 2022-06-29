@@ -16,7 +16,7 @@
 - **(2015)** [Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107042)
   - **Model** dasymetric mapping + random fores
 
-- :great: **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity](https://www.sciencedirect.com/science/article/pii/S014362281400157X)
+- :tada: **(2014)** [High resolution dasymetric model of U.S demographics with application to spatial distribution of racial diversity](https://www.sciencedirect.com/science/article/pii/S014362281400157X)
   - **Model**: dasymetric model
   - **Data**: 
     - SEDAC (Socioeconomic Data and Applications Center) 2000 U.S. Census Grids: gridded population count, demographic, socioeconomic varables.
