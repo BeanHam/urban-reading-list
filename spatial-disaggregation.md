@@ -1,11 +1,11 @@
 ## Spatial Disaggregation
 
-#### Mass-Preserving areal weighting/areal interpolation: 
+#### 1. Mass-Preserving areal weighting/areal interpolation: 
 the known population of an administrative zone is distributed uniformly across its area. This process happens on a discretized grid over an administrative zone, where each cell in the grid is assigned a population value equal to the total population over the total number of cells that cover an administrative zone.
 
-#### Pycnophylactic Interpolation 
+#### 2. Pycnophylactic Interpolation 
 
-#### Dasymetric Mapping: 
+#### 3. Dasymetric Mapping: 
 Dasymetric weighting schemes extend this idea of distributing the known population of an area by creating a weighted surface to distribute the known population, instead of doing so uniformly. The weighting schemes are determined by combining different spatial layers (e.g., slope, average rainfall, land/water masks) according to some set of rules. While some weight- ing schemes are completely ad-hoc, recently, machine learning methods have been used to improve upon this approach. These methodologies are similar to traditional supervised machine learning problems, but since actual ground truth data does not exist to compare against, val- idating the results of dasymetric models is challenging.
 
 - **(2019)** [Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Information](https://www.mdpi.com/2220-9964/8/8/327)
@@ -25,7 +25,7 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
     - SEDAC (Socioeconomic Data and Applications Center) 2000 U.S. Census Grids: gridded population count, demographic, socioeconomic varables.
     - Auxillary data: NLCD (National Land Cover Dataset) 2001: The idea of dasymetric modeling is to redistribute the total population count within a cell into its constituent sub-cells using NLCD information. We use two different types of NLCD information for dasymetric modeling.
 
-#### Deep Learning
+#### 4. Deep Learning
 - **(2017)** [A Deep Learning Approach for Population Estimation from Satellite Imagery](https://dl.acm.org/doi/10.1145/3149858.3149863)
   - **Model**: CNN
   - **Data**: 
@@ -37,8 +37,8 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
   - **Data**: 
     - population data: Center for International Earth Science Information Networks’ (CIESIN) US Census Summary Grids for 2000 and 2010
     - satellite data: LANDSAT 7 mission images + Defense Meteorological Satellite Program Operational Line Scanner
-
-#### Bayesian Model
+----
+#### 5. Bayesian Model
 - **(2019)** [A spatial regression model for the disaggregation of areal unit based data to high-resolution grids with application to vaccination coverage mapping](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
   - **Model**: Bayesian model: binomial spatial regression model with a logit link and a combination of covariate data and random effects modelling two levels of spatial autocorrelation in the linear predictor. The Bayesian model is fitted using the INLA-SPDE approach.
   - **Data**: DHS surveys from 2013 and 2015 in Afghanistan and Pakistan. Aggregated data at administrative level. 
