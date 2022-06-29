@@ -1,10 +1,11 @@
 ## Spatial Disaggregation
 
-#### Mass-Preserving areal weighting
+#### Mass-Preserving areal weighting/areal interpolation: the known population of an administrative zone is distributed uniformly across its area. This process happens on a discretized grid over an administrative zone, where each cell in the grid is assigned a population value equal to the total population over the total number of cells that cover an administrative zone.
 
 #### Pycnophylactic Interpolation 
 
-#### Dasymetric Mapping
+#### Dasymetric Mapping: Dasymetric weighting schemes extend this idea of distributing the known population of an area by creating a weighted surface to distribute the known population, instead of doing so uniformly. The weighting schemes are determined by combining different spatial layers (e.g., slope, average rainfall, land/water masks) according to some set of rules. While some weight- ing schemes are completely ad-hoc, recently, machine learning methods have been used to improve upon this approach. These methodologies are similar to traditional supervised machine learning problems, but since actual ground truth data does not exist to compare against, val- idating the results of dasymetric models is challenging.
+
 - **(2019)** [Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Information](https://www.mdpi.com/2220-9964/8/8/327)
   - nice literature review
   - **Model** a hybrid approach that combines pycnophylactic interpolation and regression-based dasymetric mapping
@@ -27,12 +28,12 @@
   - **Model**: CNN
   - **Data**: 
     - population data: 2002 census data for Tanzania (18421 areas) and 2009 census data for Kenya (7150 areas).
-    - satellite data: LANDSAT 7 mission images + Defense Meteorological Satellite Program Operational Line Scanner
+    - satellite data: Landsat 7 1-year composite images for 2000 and 2010
 
 - **(2016)** [Equitable development through deep learning: The case of sub-national population density estimation](https://dl.acm.org/doi/10.1145/3001913.3001921)
   - **Model**: CNN
   - **Data**: 
-    - population data: 2002 census data for Tanzania (18421 areas) and 2009 census data for Kenya (7150 areas).
+    - population data: Center for International Earth Science Information Networks’ (CIESIN) US Census Summary Grids for 2000 and 2010
     - satellite data: LANDSAT 7 mission images + Defense Meteorological Satellite Program Operational Line Scanner
 
 #### Bayesian Model
