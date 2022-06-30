@@ -53,9 +53,9 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
 
 ---
 #### 5. Regression/Bayesian Model
-- **(2021)** [A simulation study of disaggregation regression for spatial disease mapping](https://arxiv.org/abs/2005.03604)
+- :tada: **(2021)** [A simulation study of disaggregation regression for spatial disease mapping](https://arxiv.org/abs/2005.03604)
   - **Model**: Poisson regression; simulation (*similar to our study: they simulated high resolutiond data, and aggregated them up.*)
 
-- **(2019)** [A spatial regression model for the disaggregation of areal unit based data to high-resolution grids with application to vaccination coverage mapping](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
+- :tada: **(2019)** [A spatial regression model for the disaggregation of areal unit based data to high-resolution grids with application to vaccination coverage mapping](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
   - **Model**: Bayesian model: binomial spatial regression model with a logit link and a combination of covariate data and random effects modelling two levels of spatial autocorrelation in the linear predictor. The Bayesian model is fitted using the INLA-SPDE approach.
   - **Data**: DHS surveys from 2013 and 2015 in Afghanistan and Pakistan. Aggregated data at administrative level. 
