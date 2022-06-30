@@ -19,7 +19,7 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
 - :tada: **(2019)** [Geospatial Disaggregation of Population Data in Supporting SDG Assessments: A Case Study from Deqing County, China](https://www.mdpi.com/2220-9964/8/8/356)
   - **Model**: dasymetric method + grid census population into fine-resolution using 3d building information
   - **Data**: population data; building information; aerial images
-  - 
+
 - :tada: **(2018)** [Spatially disaggregated population estimates in the absence of national population and housing census data](https://www.pnas.org/doi/pdf/10.1073/pnas.1715305115)
   - nice review of dasymetric mapping approaches
 
