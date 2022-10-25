@@ -6,15 +6,13 @@ the known population of an administrative zone is distributed uniformly across i
 ---
 #### 2. Areal Interpolation:
 estimate unknown data points for specific locations using known data values in other locations. These methods are used to smooth population estimates across administrative boundaries. Additional information can also be used to improve estimates.
-
+- :tada: **(2019)** [Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Information](https://www.mdpi.com/2220-9964/8/8/327)
 ---
 #### 3. Dasymetric Mapping: 
 Dasymetric weighting schemes extend this idea of distributing the known population of an area by creating a weighted surface to distribute the known population, instead of doing so uniformly. The weighting schemes are determined by combining different spatial layers (e.g., slope, average rainfall, land/water masks) according to some set of rules. While some weight- ing schemes are completely ad-hoc, recently, machine learning methods have been used to improve upon this approach. These methodologies are similar to traditional supervised machine learning problems, but since actual ground truth data does not exist to compare against, val- idating the results of dasymetric models is challenging.
 
-- :tada: **(2019)** [Spatial Disaggregation of Historical Census Data Leveraging Multiple Sources of Ancillary Information](https://www.mdpi.com/2220-9964/8/8/327)
-  - nice literature review
-  - **Model** a hybrid approach that combines pycnophylactic interpolation and regression-based dasymetric mapping
-  - **Data**: CEDAR (11 geo regions); LOKSTAT (41 geo regions) + covariates
+- :tada: **(2019)** [Spatial interpolation using areal features: A review of methods and opportunities using new forms of data with coded illustrations](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/gec3.12465)
+  - survey info
 
 - :tada: **(2019)** [Geospatial Disaggregation of Population Data in Supporting SDG Assessments: A Case Study from Deqing County, China](https://www.mdpi.com/2220-9964/8/8/356)
   - **Model**: dasymetric method + grid census population into fine-resolution using 3d building information
