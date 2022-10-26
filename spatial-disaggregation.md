@@ -6,6 +6,7 @@ the known population of an administrative zone is distributed uniformly across i
 ---
 #### 2. Areal Interpolation:
 estimate unknown data points for specific locations using known data values in other locations. These methods are used to smooth population estimates across administrative boundaries. Additional information can also be used to improve estimates.
+
 ---
 #### 3. Dasymetric Mapping: 
 Dasymetric weighting schemes extend this idea of distributing the known population of an area by creating a weighted surface to distribute the known population, instead of doing so uniformly. The weighting schemes are determined by combining different spatial layers (e.g., slope, average rainfall, land/water masks) according to some set of rules. While some weight- ing schemes are completely ad-hoc, recently, machine learning methods have been used to improve upon this approach. These methodologies are similar to traditional supervised machine learning problems, but since actual ground truth data does not exist to compare against, val- idating the results of dasymetric models is challenging.
