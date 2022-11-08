@@ -63,3 +63,13 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
 - :tada: **(2019)** [A spatial regression model for the disaggregation of areal unit based data to high-resolution grids with application to vaccination coverage mapping](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
   - **Model**: Bayesian model: binomial spatial regression model with a logit link and a combination of covariate data and random effects modelling two levels of spatial autocorrelation in the linear predictor. The Bayesian model is fitted using the INLA-SPDE approach.
   - **Data**: DHS surveys from 2013 and 2015 in Afghanistan and Pakistan. Aggregated data at administrative level. 
+
+-------
+#### 6. Applications
+- **(2022)** [Improving Spatial Disaggregation of Crop Yield by Incorporating Machine Learning with Multisource Data: A Case Study of Chinese Maize Yield](https://arxiv.org/abs/2005.03604)
+
+- **(2022)** [Comparison of different methods of spatial disaggregation of electricity generation and consumption time series✩](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
+
+- **(2019)** [Validation of digital maps derived from spatial disaggregation of legacy soil maps(https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
+
+- **(2019)** [Quantifying and spatial disaggregation of air pollution emissions from ground transportation in a developing country context: Case study for the Lima Metropolitan Area in Peru](https://journals.sagepub.com/doi/full/10.1177/0962280218797362)
