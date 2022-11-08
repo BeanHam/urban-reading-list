@@ -39,6 +39,10 @@ Dasymetric weighting schemes extend this idea of distributing the known populati
 
 ---
 #### 4. Deep Learning
+- **(2021)** [Geospatial Data Disaggregation through Self-Trained Encoder–Decoder Convolutional Models](https://www.mdpi.com/2220-9964/10/9/619)
+  - **Model** Encoder-decoder architecture; still uses auxiliary data.
+  - Good literature review
+  
 - **(2017)** [A Deep Learning Approach for Population Estimation from Satellite Imagery](https://dl.acm.org/doi/10.1145/3149858.3149863)
   - **Model**: CNN
   - **Data**: 
