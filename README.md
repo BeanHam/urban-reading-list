@@ -7,3 +7,4 @@ This repo contains read-list for my research (computer vision, spatio-temporal p
 - [Image Super-Resolution & Applications](super-resolution.md)
 - [Graph Neural Network](gnn.md)
 - [Spatial Disaggregation](spatial-disaggregation.md)
+- [Synthetic Data](synthetic-data.md)
